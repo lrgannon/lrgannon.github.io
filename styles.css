@@ -36,6 +36,7 @@ nav a:hover {
   background-color: rgba(47, 79, 79, 0.414);
   border-radius: 1%;
   margin-bottom: 100px;
+  padding-top: 40px;
 }
 
 .mybox1 {
@@ -48,13 +49,11 @@ nav a:hover {
   font-family: "Catamaran", "Verdana", "Geneva", "Tahoma", "sans-serif";
   color: white;
   text-align: left;
-  padding-top: 40px;
 }
 
 .mybox2 {
   text-align: center;
   margin-top: 100px;
-  padding-top: 40px;
 }
 
 .logo {
