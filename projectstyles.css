@@ -34,7 +34,7 @@ nav a:hover {
 
 .page {
   background-color: rgba(47, 79, 79, 0.414);
-  border-radius: 5%;
+  border-radius: 1%;
   margin-bottom: 100px;
 }
 
@@ -47,7 +47,6 @@ nav a:hover {
 }
 
 .mybox5 {
-  border-radius: 5%;
   text-align: center;
   min-height: 400px;
   margin-bottom: 40px;
@@ -55,6 +54,8 @@ nav a:hover {
 
 .mybox5 p {
   text-align: left;
+  padding-top: 5px;
+  padding-left: 10px;
 }
 
 .btn {
@@ -85,13 +86,13 @@ nav a:hover {
 }
 
 h4 {
-  margin-top: 0.25rem;
+  margin-top: 10px;
   text-align: center;
 }
 
 .mybox6 {
   background-color: rgba(47, 79, 79, 0.414);
-  border-radius: 5%;
+  border-radius: 2%;
   height: 200px;
   width: 300px;
   font-family: "Catamaran", "Verdana", "Geneva", "Tahoma", "sans-serif";
@@ -109,4 +110,3 @@ ul a {
 ul a:hover {
   color: tomato;
 }
-
