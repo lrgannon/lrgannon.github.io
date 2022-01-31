@@ -1,0 +1,112 @@
+header {
+  text-align: center;
+  font-family: "Catamaran", "Verdana", "Geneva", "Tahoma", "sans-serif";
+}
+
+.container-fluid {
+  color: white;
+  margin-top: 75px;
+}
+
+body {
+  background-image: url(images/rachelmoenningpic.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+}
+
+nav {
+  text-align: right;
+  padding-right: 100px;
+}
+
+nav a {
+  color: white;
+  font-size: 1.25rem;
+  text-decoration: none;
+  padding: 10px;
+}
+
+nav a:hover {
+  color: tomato;
+}
+
+.page {
+  background-color: rgba(47, 79, 79, 0.414);
+  border-radius: 5%;
+  margin-bottom: 200px;
+}
+
+.logo {
+  padding-left: 50px;
+  color: white;
+  padding-right: 550px;
+  font-size: 2.25rem;
+  font-family: "kalam";
+}
+
+.mybox4 {
+  background-color: rgba(47, 79, 79, 0.414);
+  border-radius: 5%;
+  text-align: center;
+  min-height: 400px;
+  margin-bottom: 40px;
+}
+
+.mybox4 p {
+  text-align: left;
+}
+
+.btn {
+  background-color: tomato;
+}
+
+.btn:visited {
+  background-color: tomato;
+}
+
+.btn:hover {
+  background-color: springgreen;
+}
+
+.pacmenbutton {
+  margin-top: 15px;
+  margin-bottom: 50px;
+}
+
+.eyebutton {
+  margin-top: 160px;
+  margin-bottom: 50px;
+}
+
+.busbutton {
+  margin-top: 135px;
+  margin-bottom: 50px;
+}
+
+h4 {
+  margin-top: 0.25rem;
+  text-align: center;
+}
+
+.mybox6 {
+  background-color: rgba(47, 79, 79, 0.414);
+  border-radius: 5%;
+  height: 200px;
+  width: 300px;
+  font-family: "Catamaran", "Verdana", "Geneva", "Tahoma", "sans-serif";
+  text-align: center;
+  font-size: 1rem;
+  margin-bottom: 100px;
+  padding-top: 50px;
+}
+
+ul a {
+  text-decoration: none;
+  color: white;
+}
+
+ul a:hover {
+  color: darkslategray;
+}
