@@ -46,15 +46,14 @@ nav a:hover {
   font-family: "kalam";
 }
 
-.mybox4 {
-  background-color: rgba(47, 79, 79, 0.414);
+.mybox5 {
   border-radius: 5%;
   text-align: center;
   min-height: 400px;
   margin-bottom: 40px;
 }
 
-.mybox4 p {
+.mybox5 p {
   text-align: left;
 }
 
@@ -110,3 +109,4 @@ ul a {
 ul a:hover {
   color: tomato;
 }
+
