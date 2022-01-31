@@ -35,9 +35,7 @@ nav a:hover {
 .page {
   background-color: rgba(47, 79, 79, 0.414);
   border-radius: 5%;
-  margin-bottom: 200px;
-  /* color: white;
-  margin-top: 75px; */
+  margin-bottom: 100px;
 }
 
 .mybox1 {
@@ -70,14 +68,14 @@ nav a:hover {
 }
 
 .mybox3 {
-  margin-top: 555px;
+  margin-top: 355px;
   padding-bottom: 100px;
   padding-left: 50px;
   text-align: center;
 }
 
 .mybox4 {
-  margin-top: 500px;
+  margin-top: 300px;
   padding-bottom: 100px;
   padding-top: 80px;
   padding-left: 50px;
