@@ -17,9 +17,10 @@ body {
 }
 
 nav {
-  text-align: right;
-  margin-right: 100px;
+  text-align: center;
+  margin-left: 600px;
 }
+
 
 nav a {
   color: white;
@@ -87,13 +88,11 @@ ul a:hover {
 
 .mybox6 {
   background-color: rgba(47, 79, 79, 0.414);
-  border-radius: 2%;
-  height: 200px;
-  width: 300px;
+  border-radius: 1%;
   font-family: "Catamaran", "Verdana", "Geneva", "Tahoma", "sans-serif";
   text-align: center;
   font-size: 1rem;
   margin-bottom: 100px;
   padding-top: 50px;
-  margin-left: 65px;
+  padding-bottom: 50px;
 }
